@@ -1,0 +1,20 @@
+{
+ "comentarios":[
+
+  {
+   "autor":"Professor",
+   "texto":"Excelente apresentação sobre Inteligência Artificial."
+  },
+
+  {
+   "autor":"Colega",
+   "texto":"Muito interessante a viagem técnica para Ribeirão."
+  },
+
+  {
+   "autor":"Gestor",
+   "texto":"Parabéns pelo reconhecimento da prefeitura."
+  }
+
+ ]
+}   
