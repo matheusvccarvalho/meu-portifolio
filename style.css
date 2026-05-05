@@ -37,7 +37,8 @@ z-index:-1;
     height:150px;
     border-radius:50%;
     object-fit:cover;
-    object-position: 50% 25%; /* ajuste fino do rosto */
+    object-position: 50% 25%;
+    margin-top: 20px;
 }
 
 
