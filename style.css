@@ -36,8 +36,9 @@ padding:20px;
 .foto{
     width:150px;
     height:150px;
+    border-radius:50%;
     object-fit:cover;
-    object-position: center; /* ✅ centraliza certinho */
+    object-position: 50% 25%; /* ajuste fino do rosto */
 }
 
 
